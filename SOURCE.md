@@ -17,7 +17,8 @@
 初始归档提交完整保留原始 6 个文件，并新增此 SOURCE.md。
 2026-11-21 按仓库所有者要求，将 README.md、SKILL.md 和 agents/openai.yaml 中的显示名称从“航海定位官”改为“个人定位官”；其余原始文件及访谈、Obsidian 写入逻辑和模板保持不变。
 不导入原仓库 Git 提交历史，不升级、重构、优化或安装 Skill。
-原 README 中的安装链接与使用说明属于历史内容，原样保留，并非此次归档执行过的操作。
+2026-11-21 按仓库所有者要求，将 README.md 的安装链接改为当前独立仓库 https://github.com/shishupeng66-tech/ai-second-brain-positioning-skill 。
+此项仅调整安装文档，不改变 Skill 的访谈流程、Obsidian 写入规则或内容模板；本次未执行安装。
 
 ## 许可与版权
 

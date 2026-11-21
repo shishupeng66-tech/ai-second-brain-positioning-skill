@@ -37,7 +37,7 @@ AI第二大脑_内容创作系统/
 
 ```text
 请使用 skill-installer 安装这个 GitHub Skill：
-https://github.com/wangguoqing123/shengcai-positioning-interview
+https://github.com/shishupeng66-tech/ai-second-brain-positioning-skill
 ```
 
 安装完成后，“个人定位官”会说明接下来的四个阶段，并给出个人定位的第一个问题。
